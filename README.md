@@ -5,10 +5,9 @@ It uses the `security`command.
 
 Sample output:
 
-`A111CAB0-FA2F-4082-9840-53FD78EF1553.mobileprovision - TimerApp - expires on 2015/06/29 - total devices (5)
-  > a49a3ffc-0035-11e4-9a26-b2227cce2b54  > a4ae1284-0035-11e4-9a26-b2227cce2b54  > a4ae1608-0035-11e4-9a26-b2227cce2b54
-  > a4ae1874-0035-11e4-9a26-b2227cce2b54  > a4ae1af4-0035-11e4-9a26-b2227cce2b54  > 531acb0c53059f8a96ec555f8cba9ba30121029a
-`
+`A111CAB0-FA2F-4082-9840-53FD78EF1553.mobileprovision - TimerApp - expires on 2015/06/29 - total devices (5)`
+`  > a49a3ffc-0035-11e4-9a26-b2227cce2b54  > a4ae1284-0035-11e4-9a26-b2227cce2b54  > a4ae1608-0035-11e4-9a26-b2227cce2b54`
+`  > a4ae1874-0035-11e4-9a26-b2227cce2b54  > a4ae1af4-0035-11e4-9a26-b2227cce2b54  > 531acb0c53059f8a96ec555f8cba9ba30121029a`
 
 ## Requirements
 This ruby script requires Plist gem, install it with this command:
