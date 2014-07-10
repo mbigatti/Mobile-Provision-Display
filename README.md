@@ -13,6 +13,6 @@ Sample output:
 This ruby script requires the *Plist* gem. Install it with this command:
 `sudo gem install plist`
 
-## Contact
+### Contact
 [http://bigatti.it](http://bigatti.it)  
 [@mbigatti](https://twitter.com/mbigatti)
