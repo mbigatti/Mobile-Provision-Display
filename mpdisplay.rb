@@ -5,6 +5,8 @@
 # A simple script to pretty print some content of mobile provisioning profiles 
 # installed on the local machine.
 #
+# prerequisites: sudo gem install plist
+#
 # (c) 2014 Massimiliano Bigatti (@mbigatti, http://bigatti.it)
 #
 #
